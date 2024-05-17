@@ -1,4 +1,4 @@
-# Quasar App (user-script-generator)
+# User Script Generator (user-script-generator)
 
 A Quasar Project
 
